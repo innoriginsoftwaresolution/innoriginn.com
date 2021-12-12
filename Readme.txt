@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: eBusiness
-Template URL: https://bootstrapmade.com/ebusiness-bootstrap-corporate-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Innorigin is a software company, which porvides variety of software services and solutions to our client. We also do product engineering and help our cleint to develop their best software which give a good user experience to their cleints.
